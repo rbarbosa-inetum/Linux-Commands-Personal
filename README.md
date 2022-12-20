@@ -26,8 +26,6 @@ lvextend -l +100%FREE /dev/vg01/lv01
 
 resize2fs /dev/vg01/lv01
 
-/dev/vg02/lv02
-
 
 
 
